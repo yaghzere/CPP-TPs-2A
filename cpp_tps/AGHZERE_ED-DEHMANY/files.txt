@@ -1,0 +1,7 @@
+./Makefile
+./CMakeLists.txt
+./README.txt
+./SetOfDouble.h
+./Set.h
+./set_test.cpp
+./files.txt
